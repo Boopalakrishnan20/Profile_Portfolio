@@ -1,10 +1,10 @@
 ## Profile_Portfolio
 
-# This personal portfolio website is a responsive, interactive showcase of my skills, projects, and professional background, built using HTML, CSS, and JavaScript.
-# The layout is structured with semantic HTML for accessibility and SEO. 
-# CSS is used to create a clean, modern design with custom styling, animations, and transitions for a polished look.
-# JavaScript adds dynamic behavior, such as interactive elements, smooth scrolling, and responsive navigation.
-# The portfolio includes sections like Home, Projects, Skills, Education, and Contact, offering a complete snapshot of my work and experience.
+#This personal portfolio website is a responsive, interactive showcase of my skills, projects, and professional background, built using HTML, CSS, and JavaScript.
+#The layout is structured with semantic HTML for accessibility and SEO. 
+#CSS is used to create a clean, modern design with custom styling, animations, and transitions for a polished look.
+#JavaScript adds dynamic behavior, such as interactive elements, smooth scrolling, and responsive navigation.
+#The portfolio includes sections like Home, Projects, Skills, Education, and Contact, offering a complete snapshot of my work and experience.
 
 # Here's a View:
 
